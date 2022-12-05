@@ -1,0 +1,81 @@
+#principal{
+	width: 900px;
+	height: 1500px;
+	border: 0px solid #000;
+	margin: auto;
+}
+
+header{
+	width: 900px;
+	height: 120px;
+	border: 0px solid #000;
+}
+
+#logo{
+	width: 400px;
+	height: 120px;
+	border: 0px solid #000;
+	float: left;
+}
+
+.titulo{
+	margin-top: 4px;
+	font-size: 35px;
+}
+
+.subtitulo{
+	font-size: 20px;
+    margin-top: 4px:;
+}
+
+.botones{
+    font-size: 20px;
+    margin-top: 4px:;
+    align-content: center;
+}
+.form{
+    font-size: 20px;
+    margin-top: 4px:;
+    align-content: center;
+}
+
+#imagen{
+    margin-top: 10px;
+    width: 900px;
+    height: 300px;
+    border: 0px solid #000;
+}
+
+#categorias{
+    width: 900px;
+    height: auto; overflow: hidden;
+    border: 0px solid #CCC;
+    margin-top: 15px;
+}
+.estilotextarea {
+    width:900px;
+    height:1000px;
+    border: 1px dotted #000099;
+}
+
+
+#explicacion{
+	width: 900px;
+	height: auto;overflow: hidden;
+	border: 0px solid #000;
+	margin-top: 10px;
+}
+.more{
+    border: 1px solid #006699;
+    padding: 10px 20px 10px 20px;
+    margin: 10px;
+}
+
+
+
+footer{
+	width: 900px;
+	height: auto;overflow: hidden;
+	border: 0px solid #000;
+	text-align: center;
+}
